@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/SOLID/v16
+/src/D/obj
+/src/I/obj
+/src/L/obj
+/src/O/obj
+/src/S/obj
+/.vs/SOLID/DesignTimeBuild
